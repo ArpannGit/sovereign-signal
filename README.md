@@ -131,6 +131,3 @@ The only request: **keep the beneficiary the individual.**
 ---
 
 *Released to the public domain, March 2026. No rights reserved.*  
-*Anonymous.*
-
-# sovereign-signal
